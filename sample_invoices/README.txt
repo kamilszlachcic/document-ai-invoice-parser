@@ -1,1 +1,0 @@
-Place sample PDF or image invoices here for testing.
